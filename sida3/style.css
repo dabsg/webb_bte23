@@ -1,0 +1,48 @@
+header{
+
+background-color: aqua;
+height: 100px;
+width: 100%;
+
+
+}
+
+nav{
+
+    background-color:pink;
+    height: 50px;
+    width: 100%;
+    
+
+}
+
+#container{
+
+display:flex;
+
+}
+
+
+aside{
+
+    background-color:green;
+    height: 400px;
+    width: 20%;
+
+}
+
+
+main{
+
+    background-color:#B5727E;
+    height: 400px;
+    width: 80%;
+
+}
+footer{
+
+    background-color:red;
+    height: 50px;
+    width: 100%;
+
+}
